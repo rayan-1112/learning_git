@@ -17,3 +17,5 @@ def sub(a,b):
 
 def halo():
     print('hello')
+def hel():
+    print("hey")
